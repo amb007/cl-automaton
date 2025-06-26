@@ -6,6 +6,6 @@ operations (concatenation, union, Kleene star) and a number of
 non-standard ones (intersection, complement, etc.), derived from
 [Automaton](http://www.brics.dk/automaton/).
 
-[DeepWiki documentation](https://deepwiki.com/amb007/cl-unum)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/amb007/cl-automaton)
 
 A more live version at [Drei](https://github.com/robert-strandh/McCLIM/tree/master/Libraries/Drei).
